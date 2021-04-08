@@ -1,0 +1,10 @@
+Andrei Popescu 1
+Daniel Candea 2
+Mircea Radu 3
+Rares Cojoc 1 0
+Darius Popa 2 0
+Draghici Octavian 3 0
+Fini Ale 4 0
+Matematica 1 1 30 6
+Romana 2 2 35 5
+Franceza 2 3 20 2

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lab4MilosteanuDraghici/lab3V3/lab3/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lab4MilosteanuDraghici/lab3V3/lab3/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/openjfx-11.0.2_windows-x64_bin-sdk.zip!/javafx-sdk-11.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
